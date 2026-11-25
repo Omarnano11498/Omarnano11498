@@ -13,6 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=Omarnano11498&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/Omarnano11498?label=Followers&style=flat&color=0e75b6" alt="followers"/>
   <img src="https://img.shields.io/badge/Focus-Networking%20%26%20Automation-00C2FF?style=flat" alt="focus"/>
+  <a href="https://www.linkedin.com/in/omar-khaled-3417b7172/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
@@ -89,9 +90,7 @@ currently:  Building tools that audit, monitor and secure IT environments
 ### 🤝 Let's connect
 
 <p align="center">
-  <!-- Replace the placeholders below with your real links, or delete the badge you don't use -->
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/omar-khaled-3417b7172/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/Omarnano11498"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
