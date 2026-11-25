@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Omar%20Khalid%20Ali&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Network%20%26%20Automation%20Engineer&descAlignY=58&descSize=18" alt="Omar Khalid Ali banner"/>
+  <img src="./assets/banner.svg" width="100%" alt="Omar Khalid Ali — Network & Automation Engineer"/>
 </p>
 
 <p align="center">
@@ -96,7 +96,3 @@ currently:  Building tools that audit, monitor and secure IT environments
 </p>
 
 <p align="center"><i>Open to collaborations on network automation, IT monitoring and DevOps tooling.</i></p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="footer"/>
-</p>
